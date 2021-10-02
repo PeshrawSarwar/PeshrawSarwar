@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PeshrawSarwar](https://github.com/PeshrawSarwar)
 
-- 💬 Ask me about **Html, CSS, JS, PHP, Java, React**
+- 💬 Ask me about **Html, CSS, JS, PHP, Java, React, NodeJs**
 
 - 📫 How to reach me **peshrawsarwar@gmail.com**
 
