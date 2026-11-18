@@ -1,32 +1,88 @@
-<h1 align="center">Hi 👋, I'm Peshraw</h1>
-<h3 align="center">A Freelance Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Peshraw Hassan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peshrawsarwar&label=Profile%20views&color=0e75b6&style=flat" alt="peshrawsarwar" /> </p>
+<h3 align="center">
+Product Ownership · Software Development · International Information Systems
+</h3>
 
-<p align="left"> <a href="https://twitter.com/peshraw_xd" target="blank"><img src="https://img.shields.io/twitter/follow/peshraw_xd?logo=twitter&style=for-the-badge" alt="peshraw_xd" /></a> </p>
-
-- 🌱 I’m currently learning **React, Node.js, Flutter.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/PeshrawSarwar](https://github.com/PeshrawSarwar)
-
-- 💬 Ask me about **Html, CSS, JS, PHP, Java, React, Node**
-
-- 📫 How to reach me **peshrawsarwar@gmail.com**
-
-- ⚡ Fun fact **My sleeping schedule is bull*hit**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/peshrawhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peshrawhasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peshrawsarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peshrawsarwar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12864505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12864505" height="30" width="40" /></a>
-<a href="https://fb.com/peshraw hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peshraw hasan" height="30" width="40" /></a>
-<a href="https://instagram.com/pesh4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pesh4_" height="30" width="40" /></a>
+<p align="center">
+Based in Nürnberg, Germany 🇩🇪 · From Kurdistan, Iraq
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/peshrawsarwar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:peshrawsarwar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/PeshrawSarwar?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Explore_my_projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub projects" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peshrawsarwar&show_icons=true&theme=dracula&locale=en&layout=compact" alt="peshrawsarwar" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peshrawsarwar&show_icons=true&locale=en" alt="peshrawsarwar" /></p>
+I connect technology, business, and user experience to build useful digital products.
+
+My background spans software development, enterprise application support, and product ownership in telecommunications. At Asiacell, I worked on mobile app and web experiences serving millions of customers, translating business needs into features and coordinating delivery across teams.
+
+I'm now pursuing an **M.Sc. in International Information Systems at Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)** while continuing to build, experiment, and deepen my technical skills.
+
+- 🎓 B.Sc. in Information Technology — Sulaimani Polytechnic University.
+- 💼 Experience with digital channels, ERP/CRM systems, and full-stack development.
+- 🛠️ Building **TeleCore**, a telecom learning project through 100 days of Java.
+- 🌱 Exploring telecom BSS/OSS, cybersecurity, and enterprise systems.
+- 🎨 Interested in how thoughtful UX and product decisions improve everyday experiences.
+- 🌍 Languages: Kurdish, Arabic, English — and currently learning German.
+
+## What I bring
+
+| Area | Experience |
+| --- | --- |
+| Product ownership | Feature definition, backlog management, stakeholder alignment, and delivery coordination |
+| Digital experiences | Mobile apps, websites, customer journeys, and UX improvements |
+| Quality & testing | UAT, functional testing, issue investigation, and release validation |
+| Enterprise systems | Application support, ERP/CRM, and Microsoft Dynamics GP |
+| Development | Web and mobile development, databases, and API integration |
+
+## Technologies & tools
+
+Technologies I've worked with across professional and personal projects:
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,cs,js,html,css,php,dart)](https://github.com/PeshrawSarwar?tab=repositories)
+
+**Frameworks & platforms**
+
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,react,nodejs,express,flutter,bootstrap)](https://github.com/PeshrawSarwar?tab=repositories)
+
+**Databases & tools**
+
+[![Tools](https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,figma,linux,idea)](https://github.com/PeshrawSarwar?tab=repositories)
+
+## Current focus
+
+### ☎️ TeleCore — 100 Days of Java
+
+Learning Java through a growing telecom project, starting with console input, subscriber information, balances, and recharge logic.
+
+### 🌐 Telecom systems
+
+Exploring how customer portals, product catalogs, charging, billing, and service management connect within BSS/OSS architectures.
+
+### 🔐 Cybersecurity
+
+Building practical knowledge through labs and exploring the security of applications, networks, and digital services.
+
+## Beyond technology
+
+I enjoy psychology, philosophy, history, films, and exploring new places.
+
+Curiosity is usually how my next project starts.
+
+---
+
+<p align="center">
+Open to working student opportunities and collaborations in product, software, and information systems.
+</p>
